@@ -26,7 +26,7 @@ A Telegram bot that reads bank slips (images or PDFs) using Google Gemini AI, ca
 ![Lottery Slip](example_lottery_slip.jpg)
 
 ### Expenses PDF
-![Lottery Slip](expenses.pdf)
+![Example pdf file]([expenses.pdf](https://github.com/sipahtsanan/finannce_bot_project/blob/main/expenses.pdf))
 
 ---
 
