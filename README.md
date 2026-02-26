@@ -5,28 +5,25 @@ A Telegram bot that reads bank slips (images or PDFs) using Google Gemini AI, ca
 ## 📸 Screenshots
 
 ### Sending a Bank Slip
-![Slip Example](example_slip.jpg)
+<img src="example_slip.jpg" width="300">
 
 ### Reading a PDF with Multiple Transactions
-![PDF Example](example_pdf.png)
+[📄 View PDF Example](expenses.pdf)
 
 ### Monthly Summary
-![Monthly Report](example_monthly_report.jpg)
+<img src="example_monthly_report.jpg" width="300">
 
 ### Yearly Summary
-![Yearly Report](example_yearly_report.jpg)
+<img src="example_yearly_report.jpg" width="300">
 
 ### Transaction List
-![List Report](example_list_report.jpg)
+<img src="example_list_report.jpg" width="300">
 
 ### Editing a Transaction
-![Edit Example](example_edit.png)
+<img src="example_edit.png" width="300">
 
 ### Lottery Slip
-![Lottery Slip](example_lottery_slip.jpg)
-
-### Expenses PDF
-![Example pdf file](expenses.pdf)
+<img src="example_lottery_slip.jpg" width="300">
 
 ---
 
@@ -121,13 +118,12 @@ finance-tracker-bot/
 ├── .gitignore
 ├── README.md
 ├── example_slip.jpg            # Screenshot: bank slip
-├── example_pdf.png             # Screenshot: PDF input
+├── expenses.pdf                # Example PDF input
 ├── example_monthly_report.jpg  # Screenshot: monthly summary
 ├── example_yearly_report.jpg   # Screenshot: yearly summary
 ├── example_list_report.jpg     # Screenshot: transaction list
 ├── example_edit.png            # Screenshot: edit transaction
-├── example_lottery_slip.jpg    # Screenshot: lottery slip
-└── expenses.pdf                # Example pdf.file
+└── example_lottery_slip.jpg    # Screenshot: lottery slip
 ```
 
 ## 📊 Excel Output
