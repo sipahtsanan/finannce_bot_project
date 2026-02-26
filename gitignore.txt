@@ -1,0 +1,24 @@
+# Environment variables - never commit this!
+.env
+
+# Excel data file
+finance_tracker.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
